@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **GitHub: Toluwani-tech, Email: toluwanibamiro@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/EB3F2A427AA92A78/AXu9gYYPRA5HlYxf8_vVwYM?e=mh3at3](https://1drv.ms/b/c/EB3F2A427AA92A78/AXu9gYYPRA5HlYxf8_vVwYM?e=mh3at3)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I like writing code every day , even if it is just one small improvement**
 
