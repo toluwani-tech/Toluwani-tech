@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Toluwani Bamiro</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on [A study register for a university](https://1drv.ms/u/c/eb3f2a427aa92a78/IQBME6AUVBTcQJBV69fVU724AbfMfnwF-PPgQAEVyUpLL7c?e=Gpuchc)
+- 🔭 I’m currently working on [Learning CCNA concepts]
 
-- 🌱 I’m currently learning **python, JavaScript, C ,C++**
+- 🌱 I’m currently learning **python, JavaScript, C ,C++,java,git,automation,CCNA**
 
 - 👯 I’m looking to collaborate on **Beginner to intermediate projects, open-source contributions, and team project that help me gain real world software development experience.**
 
